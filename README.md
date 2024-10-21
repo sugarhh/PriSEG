@@ -2,4 +2,4 @@
 
 #### Keywords: Image segmentation, privacy-preserving, secure multi-party computation, secret sharing technology
 
-The code will be made public later.
+The code will be provided at a later time.
