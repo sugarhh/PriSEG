@@ -1,6 +1,4 @@
-# PriSEG: Honest-Majority Maliciously Secure Framework for Private Neural Network Segmentation
-
-PriSEG is a maliciously secure framework for efficient 3-party computation (3PC) protocols, specifically optimized for privacy-preserving neural network segmentation. This work is built upon the **Falcon** architecture, utilizing replicated secret sharing (RSS) to achieve high performance in the honest-majority setting.
+# PriSEG： Requirements & Project Structure
 
 ### Requirements
 ---
