@@ -1,7 +1,6 @@
 # PriSEG： Requirements & Project Structure
 
 ### Requirements
----
 The framework is designed to run on most Linux distributions. It has been primarily developed and tested on **Ubuntu 16.04, 18.04, and 20.04**.
 
 **Required Packages:**
