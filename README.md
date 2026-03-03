@@ -57,4 +57,4 @@ Input images for segmentation tasks (e.g., SOD datasets) are prepared as follows
 
 ## Work in Progress
 
-The documentation is currently being refined. Please check back soon or contact the maintainers for specific queries.
+This documentation currently provides a comprehensive overview of all essential components required for understanding and reproducing our work, including environment setup, data preparation, and execution procedures. We will continue to provide more detailed instructions and advanced configuration guides in future updates to further assist the research community.
