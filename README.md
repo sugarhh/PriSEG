@@ -42,7 +42,7 @@ To run the code, simply choose one of the following options:
 PriSEG performs inference using **3-party additive secret sharing**. Before running the protocols, both model parameters and input datasets must be pre-processed into three shares.
 
 ### Model Weights (Parameters)
-For U$^2$-Net, the parameters are derived from the official `u2net.pth` weights. The plaintext model and pre-trained weights can be obtained from the official [U-2-Net Repository](https://github.com/NathanUA/U-2-Net).
+For U2-Net, the parameters are derived from the official `u2net.pth` weights. The plaintext model and pre-trained weights can be obtained from the official [U-2-Net Repository](https://github.com/NathanUA/U-2-Net).
 * **Processing:** The weights are converted to a numerical format and split into three additive secret shares.
 * **Storage Path:** These shares must be placed in: `files/preload/[NETWORK_NAME]/all_canshu/`.
 
