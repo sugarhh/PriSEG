@@ -55,6 +55,6 @@ Input images for segmentation tasks (e.g., SOD datasets) are prepared as follows
 * **Storage Path:** The resulting input shares are stored in: `files/preload/[NETWORK_NAME]/all_input/`.
 
 
-## Work in Progress
+## Documentation Status
 
-This documentation currently provides a comprehensive overview of all essential components required for understanding and reproducing our work, including environment setup, data preparation, and execution procedures. We will continue to provide more detailed instructions and advanced configuration guides in future updates to further assist the research community.
+This documentation provides a comprehensive overview of the essential components required for understanding and reproducing our work. We will continue to provide more detailed instructions in future updates to further assist the research community.
