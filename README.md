@@ -15,13 +15,11 @@ sudo apt-get install g++ make libssl-dev
 ```
 
 ### Repository Structure
-* `files/`    - Shared keys, IP addresses and data files.
-* `files/preload`    - Contains data for pretrained network from SecureML. The other networks can be generated using `scripts` and functions in `secondary.cpp`
-* `lib_eigen/`    - [Eigen library](http://eigen.tuxfamily.org/) for faster matrix multiplication.
-* `src/`    - Source code.
-* `util/` - Dependencies for AES randomness.
-* `scripts/` - Contains python code to generate trained models for accuracy testing over a batch.
-* The `god` script makes remote runs simpler (as well as the `makefile`)
+* `./files/`    - Shared keys, IP addresses and data files.
+* `./files/preload`    - Contains data for pretrained network from SecureML. The other networks can be generated using `scripts` and functions in `secondary.cpp`
+* `./lib_eigen/`    - [Eigen library](http://eigen.tuxfamily.org/) for faster matrix multiplication.
+* `./src/`    - Source code.
+* `./util/` - Dependencies for AES randomness.
 
 ### Building the Code
 ```bash
